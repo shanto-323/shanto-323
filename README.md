@@ -42,4 +42,4 @@ func main() {
     fmt.Printf("%s ready to code!\n", shanto.Name)
 }
 ```
-## [More About Me](Resume.md) 
+## [*More About Me](Resume.md) 

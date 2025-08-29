@@ -1,7 +1,7 @@
 # Subrata Chanda Shanto
 
 Sylhet, Bangladesh  
-shantochando323@gmail.com | 01601376635 | linkedin.com/in/2sh323  
+shantochando323@gmail.com | 01601376635 | [Linkedin Profile](https://linkedin.com/in/2sh323) 
 
 ---
 
@@ -19,7 +19,7 @@ Final-year Computer Science student with hands-on experience in backend developm
 ## TECH STACK
 
 **Languages**:
-- Golang
+- Golang 
 
 **Databases**:
 - PostgreSQL
